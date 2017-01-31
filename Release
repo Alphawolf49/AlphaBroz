@@ -1,8 +1,8 @@
-Origin: Sticktron's Lab
-Label: Sticktron's Lab
+Origin: AlphaBroz
+Label: AlphaBroz
 Suite: stable
-Version: 69
+Version: 1.0
 Codename: stable
 Architectures: iphoneos-arm
 Components: main
-Description: Betas, experiments and anthing else not hosted by BigBoss.
+Description: AlphaBroz Repo
